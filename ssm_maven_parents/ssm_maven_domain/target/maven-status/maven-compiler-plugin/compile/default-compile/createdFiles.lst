@@ -1,0 +1,8 @@
+ssm_maven\domain\Member.class
+ssm_maven\domain\Role.class
+ssm_maven\domain\Orders.class
+ssm_maven\domain\Traveller.class
+ssm_maven\domain\UserInfo.class
+ssm_maven\domain\Product.class
+ssm_maven\domain\Permission.class
+ssm_maven\domain\SysLog.class

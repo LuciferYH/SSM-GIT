@@ -1,0 +1,12 @@
+ssm_maven\service\IPermissionService.class
+ssm_maven\service\ISysLogService.class
+ssm_maven\service\impl\ProductServiceImpl.class
+ssm_maven\service\impl\RoleServiceImpl.class
+ssm_maven\service\impl\UserServiceImpl.class
+ssm_maven\service\impl\OrdersServiceImpl.class
+ssm_maven\service\impl\SysLogImpl.class
+ssm_maven\service\IProductService.class
+ssm_maven\service\IRoleService.class
+ssm_maven\service\IOrdersService.class
+ssm_maven\service\IUserService.class
+ssm_maven\service\impl\PermissionServiceImpl.class
